@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# UNT0022: Inefficient position/rotation assignment
+dotnet_diagnostic.UNT0022.severity = none
